@@ -1,6 +1,11 @@
--This is todo app.Here you can run the app by using only one terminal and one command.
+# TO DO APP
+Full STack MERN App 
+<hr/>
 
-- For use you need to run npm run dev
-- Port is running on 3000
+# Available Scripts
 
-// "heroku-postbuild":"npm run install-client && npm run build",
+In this project directory you can run..
+
+## Run the project by one terminal
+`npm run dev`
+Runs both the client app and the server app in development mode. Open http://localhost:3000 to view the project in the browser.
