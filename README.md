@@ -1,6 +1,6 @@
 # TO DO APP
 Full STack MERN App 
-<hr/>
+
 
 # Available Scripts
 
