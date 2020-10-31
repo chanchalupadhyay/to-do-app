@@ -1,10 +1,12 @@
 # TO DO APP
 Full STack MERN App 
 
+## ** What you need to run this code **
+1. Node 
+2. NPM 
+3. MongooseDb
 
-# Available Scripts
 
-In this project directory you can run..
 
 ## Run the project by one terminal
 `npm run dev`
